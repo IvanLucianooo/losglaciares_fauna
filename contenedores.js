@@ -56,7 +56,7 @@ class Contenedores {
     // intro
     this.AimgContenedor = loadImage("img/AimgContenedor.jpg");
     this.AimgContenedorCut = loadImage("img/AimgContenedorCut.jpg");
-    this.Atitulo = "Carpinteto Gigante";
+    this.Atitulo = "Carpintero Gigante";
     this.AdescripcionLinea1= "Es el pájaro carpintero más grande de América del Sur y uno de los pájaros ";
     this.AdescripcionLinea2= "carpinteros más grandes del mundo.";
     this.AdescripcionLinea3= "";
